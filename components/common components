@@ -1,0 +1,214 @@
+// navbar home //
+        
+<div class="navigation" style="will-change: width, height; width: 100%;">
+  <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db770-c24db76c" class="nav-left"><a
+      href="/Franco Design Studio.html#" aria-current="page" class="brand w-nav-brand w--current"
+      style="color: rgb(255, 255, 255);" aria-label="home">
+      <div>Franco<span class="light-span"></span></div>
+    </a>
+    <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db773-c24db76c" class="nav-separator"
+      style="will-change: background; background-color: rgba(255, 255, 255, 0.3);"></div>
+    <nav role="navigation" class="nav-menu w-nav-menu">
+      <div class="menu-grid"><a href="#servicos" class="nav-link w-nav-link"
+          style="color: rgb(255, 255, 255);">Serviços</a><a href="#projetos"
+          class="nav-link w-nav-link" style="color: rgb(255, 255, 255);">Projetos</a><a
+          href="#sobre" class="nav-link w-nav-link"
+          style="color: rgb(255, 255, 255);">Sobre</a><a href="/contato.html"
+          class="nav-link contact-link w-nav-link" style="color: rgb(255, 255, 255);">Contato</a></div>
+    </nav>
+  </div>
+  <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db782-c24db76c" class="nav-right">
+    <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db783-c24db76c" class="social-icon-wrapper"><a
+        href="https://www.instagram.com/glauberfranco.design/" target="_blank"
+        class="social-icon w-inline-block" style="border-color: rgba(255, 255, 255, 0.3);"><img
+          src="./Franco Design Studio_files/651d1d2fd335df8b3a5753ab_Icons.svg" loading="lazy" alt=""
+          class="icon" style="will-change: filter; filter: invert(0%);">
+        <div class="social-hover-wrapper" style="width: 0px;">
+          <div class="social-outline" style="border-color: rgb(255, 255, 255);"></div>
+        </div>
+      </a><a href="https://twitter.com/francostudio___" target="_blank" class="social-icon w-inline-block"
+        style="border-color: rgba(255, 255, 255, 0.3);">
+        <div class="social-hover-wrapper" style="width: 0px;">
+          <div class="social-outline" style="border-color: rgb(255, 255, 255);"></div>
+        </div><img src="./Franco Design Studio_files/651d1d2f0577a25423b56b42_Icons-1.svg" loading="lazy" alt=""
+          class="icon" style="will-change: filter; filter: invert(0%);">
+      </a><a href="https://www.linkedin.com/in/glauberfrancodsg/" target="_blank"
+        class="social-icon w-inline-block" style="border-color: rgba(255, 255, 255, 0.3);">
+        <div class="social-hover-wrapper" style="width: 0px;">
+          <div class="social-outline" style="border-color: rgb(255, 255, 255);"></div>
+        </div><img src="./Franco Design Studio_files/651cc7c28fa93c3fdcaa8bc7_Light-linkedin.svg" loading="lazy"
+          alt="" class="icon" style="will-change: filter; filter: invert(0%);">
+      </a></div><a data-w-id="420ebc33-f064-39ec-cc94-a2b6c24db787"
+      href="/contato.html" class="navigation-button w-inline-block"
+      style="color: rgb(255, 255, 255); border-color: rgba(255, 255, 255, 0.3); will-change: background; background-color: rgba(0, 0, 0, 0); transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+      <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db788-c24db76c">contato</div>
+      <div id="w-node-ca7fefeb-283c-c953-b1c2-6cdc5618a757-c24db76c" class="button-hover-outline left"
+        style="width: 0%; height: 40px;">
+        <div class="solid-button-outline nav-outline" style="border-color: rgb(255, 255, 255);"></div>
+      </div>
+      <div id="w-node-c2998a6d-a76b-2d98-3b9d-c19ec69d42ea-c24db76c" class="button-hover-outline middle"
+        style="width: 0%; height: 40px;">
+        <div class="solid-button-outline middle nav-outline" style="border-color: rgb(255, 255, 255);"></div>
+      </div>
+      <div id="w-node-_7730d490-c0c7-c57d-dfc0-b20ad94e5ab2-c24db76c" class="button-hover-outline right"
+        style="width: 0%; height: 40px;">
+        <div class="solid-button-outline right nav-outline" style="border-color: rgb(255, 255, 255);"></div>
+      </div>
+    </a>
+  </div>
+  <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db780-c24db76c" class="menu-button w-nav-button"
+    style="-webkit-user-select: text;" aria-label="menu" role="button" tabindex="0"
+    aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false">
+    <div class="menu-link"><img src="./Franco Design Studio_files/651cc7c28fa93c3fdcaa8bcd_menu-3(24x24)@2x.svg"
+        loading="lazy" alt="" class="menu-icon" style="will-change: filter; filter: invert(0%);"></div>
+  </div>
+</div>
+
+// navbar pages //
+        
+<div class="navigation" style="will-change: width, height; width: 100%;">
+  <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db770-c24db76c" class="nav-left"><a
+      href="/Franco Design Studio.html#" aria-current="page" class="brand w-nav-brand w--current"
+      style="color: rgb(255, 255, 255);" aria-label="home">
+      <div>Franco<span class="light-span"></span></div>
+    </a>
+    <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db773-c24db76c" class="nav-separator"
+      style="will-change: background; background-color: rgba(255, 255, 255, 0.3);"></div>
+    <nav role="navigation" class="nav-menu w-nav-menu">
+      <div class="menu-grid"><a href="/Franco Design Studio.html#servicos" class="nav-link w-nav-link"
+          style="color: rgb(255, 255, 255);">Serviços</a><a href="/Franco Design Studio.html#projetos"
+          class="nav-link w-nav-link" style="color: rgb(255, 255, 255);">Projetos</a><a
+          href="/Franco Design Studio.html#sobre" class="nav-link w-nav-link"
+          style="color: rgb(255, 255, 255);">Sobre</a><a href="/contato.html"
+          class="nav-link contact-link w-nav-link" style="color: rgb(255, 255, 255);">Contato</a></div>
+    </nav>
+  </div>
+  <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db782-c24db76c" class="nav-right">
+    <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db783-c24db76c" class="social-icon-wrapper"><a
+        href="https://www.instagram.com/glauberfranco.design/" target="_blank"
+        class="social-icon w-inline-block" style="border-color: rgba(255, 255, 255, 0.3);"><img
+          src="./Franco Design Studio_files/651d1d2fd335df8b3a5753ab_Icons.svg" loading="lazy" alt=""
+          class="icon" style="will-change: filter; filter: invert(0%);">
+        <div class="social-hover-wrapper" style="width: 0px;">
+          <div class="social-outline" style="border-color: rgb(255, 255, 255);"></div>
+        </div>
+      </a><a href="https://twitter.com/francostudio___" target="_blank" class="social-icon w-inline-block"
+        style="border-color: rgba(255, 255, 255, 0.3);">
+        <div class="social-hover-wrapper" style="width: 0px;">
+          <div class="social-outline" style="border-color: rgb(255, 255, 255);"></div>
+        </div><img src="./Franco Design Studio_files/651d1d2f0577a25423b56b42_Icons-1.svg" loading="lazy" alt=""
+          class="icon" style="will-change: filter; filter: invert(0%);">
+      </a><a href="https://www.linkedin.com/in/glauberfrancodsg/" target="_blank"
+        class="social-icon w-inline-block" style="border-color: rgba(255, 255, 255, 0.3);">
+        <div class="social-hover-wrapper" style="width: 0px;">
+          <div class="social-outline" style="border-color: rgb(255, 255, 255);"></div>
+        </div><img src="./Franco Design Studio_files/651cc7c28fa93c3fdcaa8bc7_Light-linkedin.svg" loading="lazy"
+          alt="" class="icon" style="will-change: filter; filter: invert(0%);">
+      </a></div><a data-w-id="420ebc33-f064-39ec-cc94-a2b6c24db787"
+      href="/contato.html" class="navigation-button w-inline-block"
+      style="color: rgb(255, 255, 255); border-color: rgba(255, 255, 255, 0.3); will-change: background; background-color: rgba(0, 0, 0, 0); transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+      <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db788-c24db76c">contato</div>
+      <div id="w-node-ca7fefeb-283c-c953-b1c2-6cdc5618a757-c24db76c" class="button-hover-outline left"
+        style="width: 0%; height: 40px;">
+        <div class="solid-button-outline nav-outline" style="border-color: rgb(255, 255, 255);"></div>
+      </div>
+      <div id="w-node-c2998a6d-a76b-2d98-3b9d-c19ec69d42ea-c24db76c" class="button-hover-outline middle"
+        style="width: 0%; height: 40px;">
+        <div class="solid-button-outline middle nav-outline" style="border-color: rgb(255, 255, 255);"></div>
+      </div>
+      <div id="w-node-_7730d490-c0c7-c57d-dfc0-b20ad94e5ab2-c24db76c" class="button-hover-outline right"
+        style="width: 0%; height: 40px;">
+        <div class="solid-button-outline right nav-outline" style="border-color: rgb(255, 255, 255);"></div>
+      </div>
+    </a>
+  </div>
+  <div id="w-node-_420ebc33-f064-39ec-cc94-a2b6c24db780-c24db76c" class="menu-button w-nav-button"
+    style="-webkit-user-select: text;" aria-label="menu" role="button" tabindex="0"
+    aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false">
+    <div class="menu-link"><img src="./Franco Design Studio_files/651cc7c28fa93c3fdcaa8bcd_menu-3(24x24)@2x.svg"
+        loading="lazy" alt="" class="menu-icon" style="will-change: filter; filter: invert(0%);"></div>
+  </div>
+</div>
+
+// footer //
+
+<div class="footer-content">
+    <div id="w-node-f0260001-a5ce-6653-886a-222db91fae3f-b91fae2d" class="navigation-column">
+      <div class="subtitle">Mapa do site</div>
+      <div id="w-node-f0260001-a5ce-6653-886a-222db91fae42-b91fae2d" class="footer-list-wrapper"><a
+          href="/Franco Design Studio.html#servicos" class="footer-list-item w-inline-block">
+          <div>Serviços</div>
+          <div class="underline-hover-wrapper">
+            <div class="underline-hover-fill"
+              style="transform: translate3d(-100%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+            </div>
+          </div><img src="./Franco Design Studio_files/651cc7c28fa93c3fdcaa8bd3_arrow-right(24x24)@2x.svg"
+            loading="lazy" alt="" class="project-arrow"
+            style="opacity: 0; transform: translate3d(-24px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+        </a><a href="/Franco Design Studio.html#projetos" class="footer-list-item w-inline-block">
+          <div>Projetos</div>
+          <div class="underline-hover-wrapper">
+            <div class="underline-hover-fill"
+              style="transform: translate3d(-100%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+            </div>
+          </div><img src="./Franco Design Studio_files/651cc7c28fa93c3fdcaa8bd3_arrow-right(24x24)@2x.svg"
+            loading="lazy" alt="" class="project-arrow"
+            style="opacity: 0; transform: translate3d(-24px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+        </a><a href="/Franco Design Studio.html#sobre" class="footer-list-item w-inline-block">
+          <div>Sobre</div>
+          <div class="underline-hover-wrapper">
+            <div class="underline-hover-fill"
+              style="transform: translate3d(-100%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+            </div>
+          </div><img src="./Franco Design Studio_files/651cc7c28fa93c3fdcaa8bd3_arrow-right(24x24)@2x.svg"
+            loading="lazy" alt="" class="project-arrow"
+            style="opacity: 0; transform: translate3d(-24px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+        </a></div>
+    </div>
+    <div id="w-node-f0260001-a5ce-6653-886a-222db91fae57-b91fae2d" class="navigation-column">
+      <div class="subtitle">Vamos conversar?</div>
+      <div id="w-node-_13477b70-5e83-a08b-aebd-2d923313ddd7-b91fae2d" class="footer-list-wrapper"><a
+          href="glauberfranco.dsg@gmail.com?subject=Olá, vim pelo seu site!" class="footer-list-item w-inline-block">
+          <div>glauberfranco.dsg@gmail.com</div>
+          <div class="underline-hover-wrapper">
+            <div class="underline-hover-fill"
+              style="transform: translate3d(-100%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+            </div>
+          </div><img src="./Franco Design Studio_files/651cc7c28fa93c3fdcaa8bd3_arrow-right(24x24)@2x.svg"
+            loading="lazy" alt="" class="project-arrow"
+            style="opacity: 0; transform: translate3d(-24px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+        </a><a href="https://wa.me/5548998609951" target="_blank" class="footer-list-item w-inline-block">
+          <div>+55 (48) 99860-0051 — Whatsapp</div>
+          <div class="underline-hover-wrapper">
+            <div class="underline-hover-fill"
+              style="transform: translate3d(-100%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+            </div>
+          </div><img src="./Franco Design Studio_files/651cc7c28fa93c3fdcaa8bd3_arrow-right(24x24)@2x.svg"
+            loading="lazy" alt="" class="project-arrow"
+            style="opacity: 0; transform: translate3d(-24px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+        </a><a href="/contato.html" class="footer-list-item w-inline-block">
+          <div>Me faça uma pergunta</div>
+          <div class="underline-hover-wrapper">
+            <div class="underline-hover-fill"
+              style="transform: translate3d(-100%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+            </div>
+          </div><img src="./Franco Design Studio_files/651cc7c28fa93c3fdcaa8bd3_arrow-right(24x24)@2x.svg"
+            loading="lazy" alt="" class="project-arrow"
+            style="opacity: 0; transform: translate3d(-24px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; display: none;">
+        </a></div>
+      <div class="footer-list-wrapper hide"><a href="https://instagram.com/glauberfranco.design"
+          class="footer-list-item w-inline-block">
+          <div>Instagram</div>
+          <div id="w-node-f0260001-a5ce-6653-886a-222db91fae5e-b91fae2d" class="arrow"></div>
+        </a><a href="https://www.linkedin.com/in/glauberfrancodsg/" class="footer-list-item w-inline-block">
+          <div>Linkedin</div>
+          <div id="w-node-f0260001-a5ce-6653-886a-222db91fae62-b91fae2d" class="arrow"></div>
+        </a><a href="https://dribbble.com/glauberfranco" class="footer-list-item w-inline-block">
+          <div>Dribbble</div>
+          <div id="w-node-f0260001-a5ce-6653-886a-222db91fae66-b91fae2d" class="arrow"></div>
+        </a><a href="https://twitter.com/francostudio___" class="footer-list-item w-inline-block">
+          <div>Twitter</div>
+          <div id="w-node-f0260001-a5ce-6653-886a-222db91fae6a-b91fae2d" class="arrow"></div>
+        </a></div>
+    </div>
+  </div>
