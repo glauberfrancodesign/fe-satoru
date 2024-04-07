@@ -2389,6 +2389,10 @@ textarea.w-input, textarea.w-select {
   font-weight: 400;
 }
 
+.link-block {
+  text-decoration: none;
+}
+
 @media screen and (max-width: 991px) {
   .briefing-content {
     padding-left: 0;
